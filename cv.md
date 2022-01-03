@@ -7,7 +7,12 @@
 
 
 ###Contact information:
+----
+
+
     Discord: KotaJS
+
+
     e-mail: mr.kot.yaroslav@gmail.com
 
 
