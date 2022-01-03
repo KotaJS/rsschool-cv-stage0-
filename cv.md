@@ -1,4 +1,9 @@
-bla bla bla
-blablabla111
-yyyyyy
-123123123
+#rsschool-cv
+---
+#Yaraslau Suschevich
+---
+#Contact information:
+---
+Discord: KotaJS
+e-mail: mr.kot.yaroslav@gmail.com
+GitHub: https://github.com/KotaJS
