@@ -10,7 +10,7 @@
 ----
 
 
-    Discord: KotaJS
+    1. Discord: KotaJS
 
 
     e-mail: mr.kot.yaroslav@gmail.com
