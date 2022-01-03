@@ -16,5 +16,5 @@
     e-mail: mr.kot.yaroslav@gmail.com
 
 
-    GitHub: [https://github.com/KotaJS]
+    GitHub: https://github.com/KotaJS
 
